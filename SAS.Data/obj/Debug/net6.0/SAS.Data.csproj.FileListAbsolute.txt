@@ -1,0 +1,14 @@
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\bin\Debug\net6.0\SAS.Data.deps.json
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\bin\Debug\net6.0\SAS.Data.runtimeconfig.json
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\bin\Debug\net6.0\SAS.Data.dll
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\bin\Debug\net6.0\SAS.Data.pdb
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\SAS.Data.csproj.AssemblyReference.cache
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\SAS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\SAS.Data.AssemblyInfoInputs.cache
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\SAS.Data.AssemblyInfo.cs
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\SAS.Data.csproj.CoreCompileInputs.cache
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\SAS.Data.dll
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\refint\SAS.Data.dll
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\SAS.Data.pdb
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\SAS.Data.genruntimeconfig.cache
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Data\obj\Debug\net6.0\ref\SAS.Data.dll

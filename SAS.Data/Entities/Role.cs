@@ -11,5 +11,7 @@ namespace SAS.Data.Entities
         public int RoleId { get; set; }
         public string RoleName { get; set; }
         public string RoleDescription { get; set; }
+
+        public User User { get; set; }
     }
 }

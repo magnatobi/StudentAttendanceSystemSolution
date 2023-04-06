@@ -1,0 +1,12 @@
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\bin\Debug\net6.0\SAS.Services.deps.json
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\bin\Debug\net6.0\SAS.Services.dll
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\bin\Debug\net6.0\SAS.Services.pdb
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\obj\Debug\net6.0\SAS.Services.csproj.AssemblyReference.cache
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\obj\Debug\net6.0\SAS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\obj\Debug\net6.0\SAS.Services.AssemblyInfoInputs.cache
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\obj\Debug\net6.0\SAS.Services.AssemblyInfo.cs
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\obj\Debug\net6.0\SAS.Services.csproj.CoreCompileInputs.cache
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\obj\Debug\net6.0\SAS.Services.dll
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\obj\Debug\net6.0\refint\SAS.Services.dll
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\obj\Debug\net6.0\SAS.Services.pdb
+C:\Users\oluwatobi.olotu\source\repos\dotnet\StudentAttendanceSystemSolution\SAS.Services\obj\Debug\net6.0\ref\SAS.Services.dll

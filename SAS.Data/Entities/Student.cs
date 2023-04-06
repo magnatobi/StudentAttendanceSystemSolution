@@ -8,7 +8,7 @@ namespace SAS.Data.Entities
 {
     public class Student
     {
-        public User userId { get; set; }
+        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Faculty { get; set; }
@@ -18,5 +18,9 @@ namespace SAS.Data.Entities
         public string City { get; set; }
         public string State { get; set; }
         public string Country { get; set; }
+        public string Phone { get; set; }
+
+        public Guid userId { get; set; }
+        public User User { get; set; }
     }
 }

@@ -12,8 +12,11 @@ namespace SAS.Data.Entities
         public string EmailAddress { get; set; }
         public string PasswordHash { get; set; }
         public string AccountType { get; set; }
-        public Role Role { get; set; }
+        public bool isActive { get; set; }
         public DateTime CreatedOn { get; set; }
         public DateTime LastModified { get; set; }
+
+        public string RoleId { get; set; }
+        public Role Role { get; set; }
     }
 }
